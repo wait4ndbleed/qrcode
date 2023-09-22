@@ -14,14 +14,14 @@ body {
     height: 100vh;
 }
 
-.container {
+main {
     width: 320px;
     background: hsl(0, 0%, 100%);
     border-radius: 5%;
     padding: 15px;
 }
 
-.container img {
+main img {
     width: 288px;
     border-radius: 5%;
 }
