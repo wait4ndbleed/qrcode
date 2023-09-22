@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/wait4ndbleed/qrcode](https://github.com/wait4ndbleed/qrcodep)
+- Live Site URL: [https://fabulous-brigadeiros-1e288b.netlify.app](https://fabulous-brigadeiros-1e288b.netlify.app)
 
 
 ### Built with
