@@ -12,12 +12,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![./ss/screenshot.jpg](./ss/screeshot.jpg)
+![screenshot](./ss/screeshot.jpg)
 
 
 ### Links
 
-- Solution URL: [https://github.com/wait4ndbleed/qrcode](https://github.com/wait4ndbleed/qrcodep)
+- Solution URL: [https://github.com/wait4ndbleed/qrcode](https://github.com/wait4ndbleed/qrcode)
 - Live Site URL: [https://fabulous-brigadeiros-1e288b.netlify.app](https://fabulous-brigadeiros-1e288b.netlify.app)
 
 
